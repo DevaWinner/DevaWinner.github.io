@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Palanquin+Dark:wght@400;500;600&family=Roboto:wght@400;500;700;900&display=swap');
 
 :root {
-  --primary-color: #0f172a;
+  --primary-color: #0b1427;
   --white-1: #ffffff;
   --white-2: #e5e5e5;
 }
@@ -13,6 +13,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: var(--primary-color);
   color: var(--white-1);
   font: 65.5%;
   line-height: 1.5;
