@@ -10,14 +10,12 @@ const Navigation = () => (
       <header>
         <h1 className="nav-heading">DevWinner.</h1>
       </header>
-      
     </NavLink>
     <ul className="nav-ul flex">
       <li>
         <NavLink
           to="/"
         >
-
           Homepage
         </NavLink>
       </li>
