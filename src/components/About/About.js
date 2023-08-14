@@ -8,7 +8,6 @@ const About = () => {
         This is a simple React app that uses React Router to navigate between
         pages.
       </p>
-      
     </div>
   );
 }
